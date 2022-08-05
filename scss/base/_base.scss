@@ -1,0 +1,26 @@
+/* BLOCK 2 → BASE */
+
+body {
+    font-family: var(--main-font);
+    color: var(--main-black-color);
+}
+
+img {
+    display: block;
+}
+
+.no-scroll {
+    overflow: hidden;
+}
+
+.link {
+    text-decoration: none;
+    color: currentColor;
+    cursor: pointer;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
