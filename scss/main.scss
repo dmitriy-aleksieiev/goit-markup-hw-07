@@ -5,11 +5,16 @@
 // base styles
 @import './base/base';
 @import './base/reset';
+@import './base/sections';
 
 // components styles
 @import './components/buttons';
+@import './components/logo';
 
 // layout styles
 @import './layout/header';
+@import './layout/hero';
+
+
 
 
